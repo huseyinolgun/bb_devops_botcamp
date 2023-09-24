@@ -2,4 +2,4 @@
 Eğitim amaçlı oluşturuldu.
 
 Yeni Bardak
-[image](bardak.png)
+![image](bardak.png)
